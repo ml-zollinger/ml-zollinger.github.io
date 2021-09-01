@@ -16,49 +16,37 @@ redirect_from:
 
 # Work experience
 **Oct. 2020-Today: Research Associate**<br/>
-*Research activities*
-  * User studies on tracker-based voting protocols (Selene, Hyperion)
-  * Design and programming of an online voting protocol(Selene)
+*Research activities*<br/>
+User studies on tracker-based voting protocols (Selene, Hyperion)<br/>
+Design and programming of an online voting protocol(Selene)<br/>
 
-*Teaching activities*
-  * MSc. in computer science: « Principles of Security Engineering »
-  * BSc. In computer science : Operating Systems 1
+*Teaching activities*<br/>
+MSc. in computer science: « Principles of Security Engineering »<br/>
+BSc. In computer science : Operating Systems 1<br/><br/>
 
-**Aug. 2017 – Sept. 2020: Doctoral researcher (SnT, University of Luxembourg)**
+**Aug. 2017 – Sept. 2020: Doctoral researcher (SnT, University of Luxembourg)**<br/>
+*Thesis: « From Secure To Usable and Verifiable Voting Schemes » under supervision of Prof. Peter Y.A. Ryan*<br/>
+New security definitions in voting (Tracker-Deniability, Deniable Receipt-Freeness, Coercion-Mitigation)<br/>
+New recommendations to improve user experience (interface studies, analysis of the voters’ understanding and their mental models, trust in security protocols)<br/><br/>
 
-*Thesis: « From Secure To Usable and Verifiable Voting Schemes » under supervision of Prof. Peter Y.A. Ryan*
+**Nov. 2015 – May 2017: Technical Architect (SNCF)**<br/>
+*Design and analysis of mobile apps*<br/>
+Account management app<br/>
+Authentication SDK (OAuth2)<br/>
+Strong authentication SDK (OTP)<br/>
+Push notifications deployment<br/><br/>
 
-  * New security definitions in voting (Tracker-Deniability, Deniable Receipt-Freeness, Coercion-Mitigation)
-  * New recommendations to improve user experience (interface studies, analysis of the voters’ understanding and their mental models, trust in security protocols)
-
-
-**Nov. 2015 – May 2017: Technical Architect (SNCF)**
-
-*Design and analysis of mobile apps*
-* Account management app
-* Authentication SDK (OAuth2)
-* Strong authentication SDK (OTP)
-* Push notifications deployment
-
- 
-
-**June 2015 – Oct. 2015: Project manager (Enedis)**
-
+**June 2015 – Oct. 2015: Project manager (Enedis)**<br/>
 Management of issues, security policies deployment<br/>
-Technical specifications
+Technical specifications<br/><br/>
 
-**Oct. 2013 – June 2015: Network security engineer (Enedis, SNCF)**
+**Oct. 2013 – June 2015: Network security engineer (Enedis, SNCF)**<br/>
+Management of Reverse Proxies (F5 BigIP, Beware iSentry): troubleshooting, technical specifications, security policies<br/><br/>
 
-Management of Reverse Proxies (F5 BigIP, Beware iSentry): troubleshooting, technical specifications, security policies
-
- 
-
-**Jan. 2011 – Oct. 2013: Software engineer (Canal+, Interpol, BioMérieux)**
-
-Java programming
+**Jan. 2011 – Oct. 2013: Software engineer (Canal+, Interpol, BioMérieux)**<br/>
+Java programming<br/><br/>
 
 
-**Apr. 2010 –Oct. 2010: Research engineer (University of Tsukuba, Japan)**
-
-*Internship: “Formal Logic applied to cryptovirology” under supervision of Dr. Simon Kramer*
+**Apr. 2010 –Oct. 2010: Research engineer (University of Tsukuba, Japan)**<br/>
+*Internship: “Formal Logic applied to cryptovirology” under supervision of Dr. Simon Kramer*<br/>
 Algorithms to classify and detect malwares (bisimilarity relation and satisfaction relation in the Kripke model)
