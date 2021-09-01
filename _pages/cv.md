@@ -10,13 +10,12 @@ redirect_from:
 {% include base_path %}
 
 # Education
-**2008**: B.S. in Mathematics (Université Henri Poincaré Nancy) 
-**2010**: M.S. in Mathematics (Université Claude Bernard Lyon)
-**2020**: Ph.D in Computer Science (University of Luxembourg) 2020
+**2008**: B.S. in Mathematics (Université Henri Poincaré Nancy) <br/>
+**2010**: M.S. in Mathematics (Université Claude Bernard Lyon)<br/>
+**2020**: Ph.D in Computer Science (University of Luxembourg) 2020<br/>
 
 # Work experience
-**Oct. 2020-Today: Research Associate**
-
+**Oct. 2020-Today: Research Associate**<br/>
 *Research activities*
   * User studies on tracker-based voting protocols (Selene, Hyperion)
   * Design and programming of an online voting protocol(Selene)
@@ -45,7 +44,7 @@ redirect_from:
 
 **June 2015 – Oct. 2015: Project manager (Enedis)**
 
-Management of issues, security policies deployment
+Management of issues, security policies deployment<br/>
 Technical specifications
 
 **Oct. 2013 – June 2015: Network security engineer (Enedis, SNCF)**
